@@ -1,2 +1,1 @@
-# super-duper-bassoon
-myRepo
+# Dinosaur name generator
